@@ -1,0 +1,29 @@
+.main {
+  display: flex;
+}
+.leftDiv {
+  padding: 2% 3%;
+}
+.rightDiv {
+  padding: 2% 3%;
+}
+.colors {
+  display: block;
+}
+.heading h2 {
+  font-size: 25px;
+  color: red;
+  margin-left: 20px;
+}
+
+.colorimages {
+  display: flex;
+}
+
+.colorimages img {
+  margin: 0 5px;
+}
+
+
+
+
